@@ -1,0 +1,89 @@
+.web_page{
+	height: 700px;
+	width: 100%;
+	background-color: whitesmoke;
+}
+.web_content{
+	height: 700px;
+    width: 55%;
+    background-color:;
+    float: left;
+    text-align:justify;
+
+}
+.web_content h1{
+	font-size: 70px;
+	font-style: normal;
+	font-weight: bold;
+	margin-left: 100px;
+	color: blue;  
+}
+.web_content p{
+	font-size: 30px;
+	margin-left: 100px;
+	margin-top: -30px;
+
+}
+.padding_content{
+	padding: 130px;
+}
+.login_box{
+	  height: 700px;
+	  width: 45%;
+	  background-color:;
+	  float: left;
+}
+.login_menu{
+	height: 400px;
+	width: 55%;
+	background-color: white;
+	margin-top: 120px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 5px 0px black;
+}
+.login_menu input{
+	height: 40px;
+	width: 90%;
+	font-size: 15px;
+	margin-top: 20px;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 15px;
+	box-shadow: 0px 0px 2px 0px blue;
+	border-color: blanchedalmond;
+}
+.login_menu button{
+	height: 50px;
+	width: 90%;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-left: 15px;
+	color: white;
+	border-radius: 5px;
+	background-color: blue;
+	text-align: center;
+}
+.login_menu p{
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+}
+.login_menu hr{
+	width: 90%;
+}
+.create_Button button{
+	height: 50px;
+	width: 50%;
+	font-style: initial;
+	font-size: 18px;
+	background-color:green;
+	margin: 30px 90px;
+    text-align: center;
+	color: white;
+	border-color: white;
+	border-radius: 9px;
+
+}
+.login_menu h3{
+	margin-top: 40px;
+}
